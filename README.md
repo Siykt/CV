@@ -1,2 +1,157 @@
-# CV
-个人简历
+# 个人简历
+
+> 此为工作与项目经历汇总
+
+## 工作经历
+
+### 福州大唐传易网络科技有限公司
+
+> 梦开始的地方
+
+工作时期: _2018-01_ 至 _2018-10_
+
+部门职位: _web 前端_
+
+做为 **搜索引擎排名优化(SEO)** 外包公司，一般也需要负责建站。
+
+与通常的建站外包公司不同，我们更加在乎网⻚页面的布局与标签、类名语义化。一般业务逻辑不多，主要使用 **bootstrap** + **jQuery** 快速开发，要求效率、快速上线。
+
+所以受开发周期的影响，我对于 **模块化开发**、**Sass mixin(css 预处理器)** 以及 模板重用等技术都有较为熟悉的经验。
+
+其中主要使用的技术栈为:
+
+1. SEO 语义化布局
+
+2. 静态页面渲染
+
+3. 应用 Sass/Scss 开发⻚页面样式
+
+4. 熟悉 ES5 导出导入与 ES6 语法
+
+相关技能标签:
+
+[TwitterBootstrap](https://getbootstrap.com/) - [jQuery](http://jquery.com/) - [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) - [Sass/Scss](https://sass-lang.com/)
+
+---
+
+### 带你飞（福州）科技有限公司
+
+工作时期: _2018-10_ 至 _2019-01_
+
+部门职位: _web 前端_
+
+主要负责移动端 App 的开发项目, 趋于多端打包平台的大热, 使用 H5 相关技术进行开发.
+
+其前端首选框架为 **Cordova** 与 **AngularJs(Angular1)**, 后端使用的是 **ASP.net**, 也是我首次接触使用 **C#** 的后端工程师
+
+其中主要使用的技术栈为:
+
+1. 熟悉手机端适配，此次主要使用 rem 与 flex 布局方式。
+
+2. 语音功能操作，利用 Cordova 框架封装的 API 调用原生的录音及播放功能实现语音的录制及播放。
+
+3. 使用 jQuery.ajax 进行页面的异步操作。
+
+4. 熟悉使用 AngularJS 的各类 API。
+
+相关技能标签:
+
+[AngularJs](https://angularjs.org/) - [Cordova](https://cordova.apache.org/)
+
+---
+
+### 福州大航家文化传媒有限公司
+
+> 二次开发要求阅读文档、了解架构、API 接口熟悉、重构源码，以及与其他技术领域前端协助配合开发。
+
+工作时期: _2019-01_ 至 _2019-10_
+
+部门职位: _web 前端_
+
+参与直播平台 App 二次开发项目，该项目是基于 ThinkPHP5.2 框架开发的**混合型 App 应用**。
+
+同时负责其中 H5 的活动页面、小游戏、官网的开发, 协助完成高并发 I/O 处理。
+
+维护由 **Node.js** + **Socket.io** 构建的消息服务器。
+
+其中主要使用的技术栈为:
+
+1. 基于 Socket.io 框架完成服务端的即时通讯功能，主要运用于直播间与游戏。
+
+2. 基于 Vue.js 开发客户端活动页面。
+
+3. 构建 Node.js 服务器协助完成高并发异步 I/O 处理。
+
+4. 熟悉 Webpack 工具链以提升开发效率及其性能。
+
+5. 熟悉 PHP 及 TP5.2 框架以协同后端完成部分功能的开发。
+
+相关技能标签:
+
+[Node.js](https://nodejs.org/) - [Socket.io](https://socket.io/) - [Vue](http://vuejs.org/) - [Webpack](https://www.webpackjs.com/) - [PHP/ThinkPHP](https://www.kancloud.cn/manual/thinkphp5)
+
+---
+
+### 杭州蜂华崛起网络科技有限公司
+
+工作时期: _2019-10_ 至 _2020-02_
+
+部门职位: _H5 开发工程师_
+
+> 主要项目皆面向国外市场，需要做好 **i18N** 的相关适配
+
+参与自研发聊天类 App 的后台开发, 与 Socket 服务器搭建。
+
+聊天类软件要求保持长链接的稳定，**Socket.io** 库能满足第一版本需求。
+
+项目周期较长，而后端开发人员较少，需要 Mock 服务器以遍前端人员快速开发，所以也同时负责了搭建 Mock 服务器与接口文档的编写。
+
+由于公司缘由，其中穿插境外电商与社交服务平台搭建，不过皆未完成。
+
+其中主要使用的技术栈为:
+
+1. 使用 Socket.io 搭建第一版的即时通讯服务器。
+
+2. 使用 Node.js + Mock.js 开发 Mock 服务器
+
+3. 使用 Vue.js + ElementUI + Vuex 完成管理后台 OS 的开发。
+
+相关技能标签:
+
+[Socket.io](https://socket.io/) - [Vue](http://vuejs.org/) - [ElementUI](https://element.eleme.io/) - [Vuex](https://vuex.vuejs.org/) - [Sass/Scss](https://sass-lang.com/)
+
+---
+
+### 杭州微查宝网络科技有限公司
+
+工作时期: _2020-03_ 至今
+
+部门职位: _H5 开发工程师_
+
+> 目前在职的工作，学习机会较多
+
+主要负责 微信/百度/今日头条 **小程序** 与 **Chrome 插件** 的自研发。
+
+小程序这里由于需要完成多平台小程序的开发，选择使用框架而非原生。而虽然 Vue 使用较多，但还是选择了项目更易与维护的 **Typescript** + **React** 的相关小程序框架 **Tarojs** 。
+
+Chrome 插件为第一次接触翻阅不少文档与资料，同时需要压缩插件包体积，选择使用 **Webpack** + **Typescript** 开发，自实现 DOM 模板引擎。(基于 **vnode** )。
+
+其中穿插不少官网的更新，以及一些推广页面的开发。
+
+其中主要使用的技术栈为:
+
+1. 使用 Tarojs + Typescript + React + Redux + Stylus 完成小程序的开发
+
+2. 使用 Webpack + Typescript 构建 Chrome Extensions 工程项目。
+
+3. 熟悉 Chrome Extensions Api
+
+4. 使用 Snabbdom vnode 实现 DOM 模板引擎。
+
+相关技能标签:
+
+[React](https://facebook.github.io/react/) - [Typescript](https://www.typescriptlang.org/) - [Redux](https://www.redux.org.cn/) - [Tarojs](https://taro-docs.jd.com/) - [Webpack](https://www.webpackjs.com/) - [ChromeExtensionsApi](https://developer.chrome.com/extensions/api_index) - [Snabbdom](https://github.com/snabbdom/) - [Stylus](https://www.stylus.com/)
+
+---
+
+<!-- ## 项目经历 -->
