@@ -1,6 +1,36 @@
 # 个人简历
 
 > 此为工作与项目经历汇总
+>
+> 工作经历使用时间正序记载, 项目汇总使用时间倒叙记载
+
+## 项目汇总
+
+### 微查宝 微信/百度/今日头条 小程序开发
+
+所属公司: 杭州微查宝网络科技有限公司
+
+项目角色: H5 主程
+
+项目链接: <img src="https://img.weichabao.com.cn/weapp/qrcode.jpeg" alt="二维码" style="width: 75px;" />
+
+项目需求是将原网站功能迁移至小程序端, 但原网站使用技术较为古老, 所以业务逻辑部分基本还是重写
+
+小程序这里由于需要完成多平台小程序的开发，选择使用框架而非原生, 其中我选择了 React 系的 Taro 框架
+
+主要负责:
+
+1. 完成页面开发, 完成业务需求
+
+2. 编写交互式组件, 及其相关文档
+
+3. 接入小程序中的微信支付, 百度与字节跳动端小程序中同时接入支付宝支付
+
+4. 编写更新日志, 部署项目上线
+
+5. 调整 iOS 平台差异
+
+---
 
 ## 工作经历
 
@@ -151,7 +181,3 @@ Chrome 插件为第一次接触翻阅不少文档与资料，同时需要压缩�
 相关技能标签:
 
 [React](https://facebook.github.io/react/) - [Typescript](https://www.typescriptlang.org/) - [Redux](https://www.redux.org.cn/) - [Tarojs](https://taro-docs.jd.com/) - [Webpack](https://www.webpackjs.com/) - [ChromeExtensionsApi](https://developer.chrome.com/extensions/api_index) - [Snabbdom](https://github.com/snabbdom/) - [Stylus](https://www.stylus.com/)
-
----
-
-<!-- ## 项目经历 -->
