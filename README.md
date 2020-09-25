@@ -12,7 +12,7 @@
 
 项目角色: H5 主程
 
-项目链接: <img src="https://img.weichabao.com.cn/weapp/qrcode.jpeg" alt="二维码" style="width: 75px;" />
+项目链接: <img src="https://img.weichabao.com/weapp/qrcode.jpeg" alt="二维码" style="width: 75px;" />
 
 项目需求是将原网站功能迁移至小程序端, 但原网站使用技术较为古老, 所以业务逻辑部分基本还是重写
 
